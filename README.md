@@ -21,3 +21,6 @@ v1.0
 
 
 !!! EDUCATIONAL PURPOSE ONLY !!!
+
+ATTENTION 1: Don't rename the file or change his directory.
+ATTENTION 2: Made to be used in linux.
