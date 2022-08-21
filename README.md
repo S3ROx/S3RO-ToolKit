@@ -1,5 +1,5 @@
 # s3ro-tool
-# Made by: @S3rox
+# Made by: @S3ROx
 # https://github.com/S3ROx
 
 A simple toolkit that contain some tool made by me.
