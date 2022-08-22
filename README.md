@@ -20,6 +20,8 @@ Version Histrory:
 
 
 
-!!! EDUCATIONAL PURPOSE ONLY !!!
+
+
 
 DISCLAIMER: Don't rename the file or change his directory! Made to be used in linux!
+!!! EDUCATIONAL PURPOSE ONLY !!!
