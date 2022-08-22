@@ -14,8 +14,7 @@ How to install:
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Version Histrory:
-
-1. v1.0 - Base code + One tool (password generator)
+  •v1.0 - Base code + One tool (password generator)
 
 
 
