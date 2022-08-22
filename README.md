@@ -13,14 +13,12 @@ How to install:
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Latest version:
-v1.0 - Contain (1) tool (password generator) 
+Version Histrory:
 
-Other version:
-v1.0
+1. v1.0 - Base code + One tool (password generator)
+
 
 
 !!! EDUCATIONAL PURPOSE ONLY !!!
 
-ATTENTION 1: Don't rename the file or change his directory.
-ATTENTION 2: Made to be used in linux.
+DISCLAIMER: Don't rename the file or change his directory! Made to be used in linux!
